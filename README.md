@@ -198,6 +198,7 @@ footer {
 [simple calculator.pdf](https://github.com/raghulS2004/calc/files/11662188/simple.calculator.pdf)
 
 ## HTML VALIDATOR:
+![image](https://github.com/raghulS2004/calc/assets/122069938/5f348086-cdc7-4903-aa58-1c313a9f7750)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
